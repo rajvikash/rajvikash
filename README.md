@@ -1,6 +1,13 @@
 <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:388bfd&height=130&section=header&text=Vikash%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20%7C%20AI%20%7C%20CyberSecurity%20Engineer&descSize=16&descAlignY=80" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3069,100:1f6feb&height=220&section=header&text=Vikash%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=52&desc=Full-Stack%20%7C%20AI%20%7C%20CyberSecurity%20Engineer%20%7C%20Synergy%20Innovation&descSize=16&descAlignY=72&descColor=a5c8ff&animation=fadeIn" width="100%"/>
+</div>
+
+</div>
+
 
 ### 👋 Welcome — I build intelligent systems & scalable software
 
